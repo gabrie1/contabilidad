@@ -14,7 +14,7 @@ $this->title = 'Contabilidad';
         <div class="row">
             <div class="col-lg-3"></div>
             <div class="col-lg-6">
-                <img src="../web/img/conta.png" alt="Contabilidad" class="img-responsive">
+                <img src="../web/img/Contabilidad.jpg" alt="Contabilidad" class="img-responsive">
                 <p>Nuestros servicios están orientados a la asesoría en contabilidad, declaraciones de impuestos, reportes financieros, traducción de estados financieros a formatos internacionales, presupuestación, gestión de caja, entre otros.</p>
             </div>
         </div>
